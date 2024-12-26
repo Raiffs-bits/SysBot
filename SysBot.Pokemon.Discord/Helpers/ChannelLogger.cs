@@ -1,5 +1,3 @@
-using SysBot.Base;
-
 using System;
 
 namespace SysBot.Pokemon.Discord;

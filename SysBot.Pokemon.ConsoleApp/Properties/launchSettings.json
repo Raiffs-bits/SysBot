@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "SysBot.Pokemon.ConsoleApp": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Jonathan\\OneDrive - Raiff's Bits\\Desktop\\pokebot",
+      "remoteDebugEnabled": false,
+      "nativeDebugging": true,
+      "jsWebView2Debugging": true,
+      "sqlDebugging": true
+    }
+  }
+}

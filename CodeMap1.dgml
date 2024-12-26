@@ -1,54 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<DirectedGraph DataVirtualized="True" Layout="Sugiyama" ZoomLevel="-1" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
-  <Nodes>
-    <Node Id="(@1)" Bounds="-4.5,110.000033333333,187.596666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(dcc41103-1303-4cab-ae01-5ea68317410d.OutputPath)" Group="Collapsed" Label="SysBot.Pokemon.Z3.dll" />
-    <Node Id="(@2)" Bounds="-4.50000000000003,165.000133333333,214.51,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(c4be4124-c1cf-4a81-aa7c-de96a169cf1d.OutputPath)" Group="Collapsed" Label="SysBot.Pokemon.Discord.dll" />
-    <Node Id="(@3)" Bounds="240.01,165.0001,220.086666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(958d8b0c-ff01-4bc3-84af-8bcb80794b49.OutputPath)" Group="Collapsed" Label="SysBot.Pokemon.YouTube.dll" />
-    <Node Id="(@4)" Bounds="162.526666666667,-0.000166666666663318,146.336666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(850becfd-3789-4c07-885e-0aa108c46f60.OutputPath)" Group="Collapsed" Label="SysBot.Base.dll" />
-    <Node Id="(@5)" Bounds="213.096666666667,110,207.89,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(5ca6568c-cd16-499c-a63f-8ef86aaf4499.OutputPath)" Group="Collapsed" Label="SysBot.Pokemon.Twitch.dll" />
-    <Node Id="(@6)" Bounds="173.126666666667,54.9999,171.683333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(2b520a84-74af-40ec-9b10-a9fcf950d02e.OutputPath)" Group="Collapsed" Label="SysBot.Pokemon.dll" />
-    <Node Id="(@7)" Bounds="0,220.000233333333,238.686666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(c0525606-4ed4-4998-9af3-31e2de65717a.OutputPath)" Group="Collapsed" Label="SysBot.Pokemon.ConsoleApp.dll" />
-    <Node Id="(@8)" Bounds="-4.5,54.9999333333333,147.626666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(1d51ad25-4c03-49d3-8074-7d092168cb20.OutputPath)" Group="Collapsed" Label="SysBot.Tests.dll" />
-    <Node Id="(@9)" Bounds="-4.50000000000001,-0.000166666666663318,137.026666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(886b1440-b333-4095-8e44-d71d043d20a9.OutputPath)" Group="Collapsed" Label="MergeBot.dll" />
-  </Nodes>
+<DirectedGraph DataVirtualized="True" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes />
   <Links />
   <Properties>
-    <Property Id="Bounds" DataType="System.Windows.Rect" />
     <Property Id="DataVirtualized" Label="Data Virtualized" Description="If true, the graph can contain nodes and links that represent data for virtualized nodes/links (i.e. not actually created in the graph)." DataType="System.Boolean" />
-    <Property Id="DelayedChildNodesState" Label="Delayed Child Nodes State" Description="Unspecified if the delayed child nodes state is not specified. NotFetched if the group contains child nodes that are not fetched into the graph yet. Fetched if the group has all its delayed child nodes already fetched." DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
-    <Property Id="DelayedCrossGroupLinksState" Label="Delayed Cross-Group Links State" Description="Unspecified if the delayed cross-group links state is not specified. NotFetched if delayed cross-group links on this node are not fetched into the graph yet. Fetched if all delayed cross-group links have already fetched." DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
-    <Property Id="ErrorLevel" Label="Error Level" Description="Used to associate an error level with a node or link in the graph" Group="Analysis" DataType="Microsoft.VisualStudio.Progression.ErrorLevel" />
     <Property Id="Expression" DataType="System.String" />
-    <Property Id="FilePath" Label="File Path" Description="File Path" DataType="System.String" />
-    <Property Id="Group" Label="Group" Description="Display the node as a group" DataType="Microsoft.VisualStudio.GraphModel.GraphGroupStyle" />
     <Property Id="GroupLabel" DataType="System.String" />
     <Property Id="IsEnabled" DataType="System.Boolean" />
-    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
-    <Property Id="Layout" DataType="System.String" />
     <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="ToolTip" DataType="System.String" />
     <Property Id="Value" DataType="System.String" />
     <Property Id="ValueLabel" DataType="System.String" />
     <Property Id="Visibility" Label="Visibility" Description="Defines whether a node in the graph is visible or not" DataType="System.Windows.Visibility" />
-    <Property Id="ZoomLevel" DataType="System.String" />
   </Properties>
-  <QualifiedNames>
-    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
-  </QualifiedNames>
-  <IdentifierAliases>
-    <Alias n="1" Uri="Assembly=$(dcc41103-1303-4cab-ae01-5ea68317410d.OutputPathUri)" />
-    <Alias n="2" Uri="Assembly=$(c4be4124-c1cf-4a81-aa7c-de96a169cf1d.OutputPathUri)" />
-    <Alias n="3" Uri="Assembly=$(958d8b0c-ff01-4bc3-84af-8bcb80794b49.OutputPathUri)" />
-    <Alias n="4" Uri="Assembly=$(850becfd-3789-4c07-885e-0aa108c46f60.OutputPathUri)" />
-    <Alias n="5" Uri="Assembly=$(5ca6568c-cd16-499c-a63f-8ef86aaf4499.OutputPathUri)" />
-    <Alias n="6" Uri="Assembly=$(2b520a84-74af-40ec-9b10-a9fcf950d02e.OutputPathUri)" />
-    <Alias n="7" Uri="Assembly=$(c0525606-4ed4-4998-9af3-31e2de65717a.OutputPathUri)" />
-    <Alias n="8" Uri="Assembly=$(1d51ad25-4c03-49d3-8074-7d092168cb20.OutputPathUri)" />
-    <Alias n="9" Uri="Assembly=$(886b1440-b333-4095-8e44-d71d043d20a9.OutputPathUri)" />
-  </IdentifierAliases>
   <Styles>
-    <Style TargetType="Node" GroupLabel="Error" ValueLabel="Error Level">
-      <Condition Expression="HasValue('ErrorLevel')" />
-      <Setter Property="Icon" Value="Node.Error" />
+    <Style TargetType="Node" GroupLabel="Hub" ToolTip="Node is in the top 10% of highly connected nodes" ValueLabel="Hub">
+      <Condition Expression="HasValue(&quot;Hub&quot;)" />
+      <Setter Property="Background" Value="#FFFBA8A9" />
+    </Style>
+    <Style TargetType="Group" GroupLabel="Hub" ToolTip="Node is in the top 10% of highly connected nodes" ValueLabel="Hub Container">
+      <Condition Expression="IsHubContainer" />
+      <Setter Property="Stroke" Value="#FFFBA8A9" />
+      <Setter Property="StrokeThickness" Value="6" />
     </Style>
     <Style TargetType="Node" GroupLabel="Results" ValueLabel="True">
       <Condition Expression="HasCategory('QueryResult')" />
@@ -266,24 +239,4 @@
       <Setter Property="DrawArrow" Value="true" />
     </Style>
   </Styles>
-  <Paths>
-    <Path Id="1d51ad25-4c03-49d3-8074-7d092168cb20.OutputPath" Value="C:\Users\Jonathan\OneDrive - Raiff's Bits\Desktop\pokebot\SysBot.Tests\bin\Debug\net9.0\SysBot.Tests.dll" />
-    <Path Id="1d51ad25-4c03-49d3-8074-7d092168cb20.OutputPathUri" Value="file:///C:/Users/Jonathan/OneDrive - Raiff's Bits/Desktop/pokebot/SysBot.Tests/bin/Debug/net9.0/SysBot.Tests.dll" />
-    <Path Id="2b520a84-74af-40ec-9b10-a9fcf950d02e.OutputPath" Value="C:\Users\Jonathan\OneDrive - Raiff's Bits\Desktop\pokebot\SysBot.Pokemon\bin\Debug\net9.0\SysBot.Pokemon.dll" />
-    <Path Id="2b520a84-74af-40ec-9b10-a9fcf950d02e.OutputPathUri" Value="file:///C:/Users/Jonathan/OneDrive - Raiff's Bits/Desktop/pokebot/SysBot.Pokemon/bin/Debug/net9.0/SysBot.Pokemon.dll" />
-    <Path Id="5ca6568c-cd16-499c-a63f-8ef86aaf4499.OutputPath" Value="C:\Users\Jonathan\OneDrive - Raiff's Bits\Desktop\pokebot\SysBot.Pokemon.Twitch\bin\Debug\net9.0\SysBot.Pokemon.Twitch.dll" />
-    <Path Id="5ca6568c-cd16-499c-a63f-8ef86aaf4499.OutputPathUri" Value="file:///C:/Users/Jonathan/OneDrive - Raiff's Bits/Desktop/pokebot/SysBot.Pokemon.Twitch/bin/Debug/net9.0/SysBot.Pokemon.Twitch.dll" />
-    <Path Id="850becfd-3789-4c07-885e-0aa108c46f60.OutputPath" Value="C:\Users\Jonathan\OneDrive - Raiff's Bits\Desktop\pokebot\SysBot.Base\bin\Debug\net9.0\SysBot.Base.dll" />
-    <Path Id="850becfd-3789-4c07-885e-0aa108c46f60.OutputPathUri" Value="file:///C:/Users/Jonathan/OneDrive - Raiff's Bits/Desktop/pokebot/SysBot.Base/bin/Debug/net9.0/SysBot.Base.dll" />
-    <Path Id="886b1440-b333-4095-8e44-d71d043d20a9.OutputPath" Value="C:\Users\Jonathan\OneDrive - Raiff's Bits\Desktop\pokebot\SysBot.Pokemon.WinForms\bin\Debug\net9.0-windows\win-x86\MergeBot.dll" />
-    <Path Id="886b1440-b333-4095-8e44-d71d043d20a9.OutputPathUri" Value="file:///C:/Users/Jonathan/OneDrive - Raiff's Bits/Desktop/pokebot/SysBot.Pokemon.WinForms/bin/Debug/net9.0-windows/win-x86/MergeBot.dll" />
-    <Path Id="958d8b0c-ff01-4bc3-84af-8bcb80794b49.OutputPath" Value="C:\Users\Jonathan\OneDrive - Raiff's Bits\Desktop\pokebot\SysBot.Pokemon.YouTube\bin\Debug\net9.0\SysBot.Pokemon.YouTube.dll" />
-    <Path Id="958d8b0c-ff01-4bc3-84af-8bcb80794b49.OutputPathUri" Value="file:///C:/Users/Jonathan/OneDrive - Raiff's Bits/Desktop/pokebot/SysBot.Pokemon.YouTube/bin/Debug/net9.0/SysBot.Pokemon.YouTube.dll" />
-    <Path Id="c0525606-4ed4-4998-9af3-31e2de65717a.OutputPath" Value="C:\Users\Jonathan\OneDrive - Raiff's Bits\Desktop\pokebot\SysBot.Pokemon.ConsoleApp\bin\Debug\net9.0\SysBot.Pokemon.ConsoleApp.dll" />
-    <Path Id="c0525606-4ed4-4998-9af3-31e2de65717a.OutputPathUri" Value="file:///C:/Users/Jonathan/OneDrive - Raiff's Bits/Desktop/pokebot/SysBot.Pokemon.ConsoleApp/bin/Debug/net9.0/SysBot.Pokemon.ConsoleApp.dll" />
-    <Path Id="c4be4124-c1cf-4a81-aa7c-de96a169cf1d.OutputPath" Value="C:\Users\Jonathan\OneDrive - Raiff's Bits\Desktop\pokebot\SysBot.Pokemon.Discord\bin\Debug\net9.0\SysBot.Pokemon.Discord.dll" />
-    <Path Id="c4be4124-c1cf-4a81-aa7c-de96a169cf1d.OutputPathUri" Value="file:///C:/Users/Jonathan/OneDrive - Raiff's Bits/Desktop/pokebot/SysBot.Pokemon.Discord/bin/Debug/net9.0/SysBot.Pokemon.Discord.dll" />
-    <Path Id="dcc41103-1303-4cab-ae01-5ea68317410d.OutputPath" Value="C:\Users\Jonathan\OneDrive - Raiff's Bits\Desktop\pokebot\SysBot.Pokemon.Z3\bin\Debug\net9.0\SysBot.Pokemon.Z3.dll" />
-    <Path Id="dcc41103-1303-4cab-ae01-5ea68317410d.OutputPathUri" Value="file:///C:/Users/Jonathan/OneDrive - Raiff's Bits/Desktop/pokebot/SysBot.Pokemon.Z3/bin/Debug/net9.0/SysBot.Pokemon.Z3.dll" />
-  </Paths>
 </DirectedGraph>

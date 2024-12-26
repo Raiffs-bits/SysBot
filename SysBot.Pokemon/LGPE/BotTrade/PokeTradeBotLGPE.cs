@@ -1,6 +1,5 @@
 using PKHeX.Core;
 using PKHeX.Core.Searching;
-using SysBot.Base;
 using System;
 using System.Buffers.Binary;
 using System.Collections.Generic;
@@ -10,7 +9,6 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using static SysBot.Base.SwitchButton;
 using static SysBot.Pokemon.PokeDataOffsetsLGPE;
 
 namespace SysBot.Pokemon;

@@ -1,9 +1,7 @@
-using SysBot.Base;
 using SysBot.Pokemon;
 using System.Collections.Generic;
 using System.Linq;
 using Xunit;
-using static SysBot.Base.SwitchButton;
 
 namespace SysBot.Tests;
 

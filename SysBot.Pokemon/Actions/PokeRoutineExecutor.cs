@@ -1,5 +1,4 @@
 using PKHeX.Core;
-using SysBot.Base;
 using SysBot.Pokemon.Helpers;
 using System;
 using System.Collections.Generic;
@@ -7,7 +6,6 @@ using System.Globalization;
 using System.IO;
 using System.Threading;
 using System.Threading.Tasks;
-using static SysBot.Base.SwitchButton;
 
 namespace SysBot.Pokemon;
 

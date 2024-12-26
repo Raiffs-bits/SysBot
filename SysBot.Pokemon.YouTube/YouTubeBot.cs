@@ -1,6 +1,5 @@
 using PKHeX.Core;
 using StreamingClient.Base.Util;
-using SysBot.Base;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;

@@ -1,5 +1,4 @@
 using PKHeX.Core;
-using SysBot.Base;
 using SysBot.Pokemon.Helpers;
 using System;
 using System.Collections.Generic;

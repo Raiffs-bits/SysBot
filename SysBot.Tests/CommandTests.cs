@@ -1,4 +1,3 @@
-using SysBot.Base;
 using System;
 using Xunit;
 

@@ -1,5 +1,4 @@
 using PKHeX.Core;
-using SysBot.Base;
 using System;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
