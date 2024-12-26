@@ -15,8 +15,15 @@
     <IsAotCompatible>True</IsAotCompatible>
     <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
     <TreatWarningsAsErrors>True</TreatWarningsAsErrors>
+    <Configurations>Debug;Release;build</Configurations>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DebugType>none</DebugType>
+    <IsAotCompatible>True</IsAotCompatible>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <TreatWarningsAsErrors>True</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='build|AnyCPU'">
     <DebugType>none</DebugType>
     <IsAotCompatible>True</IsAotCompatible>
     <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
