@@ -3,12 +3,6 @@ using SysBot.Base;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using TwitchLib.Client;
-using TwitchLib.Client.Events;
-using TwitchLib.Client.Models;
-using TwitchLib.Communication.Clients;
-using TwitchLib.Communication.Events;
-using TwitchLib.Communication.Models;
 
 namespace SysBot.Pokemon.Twitch
 {

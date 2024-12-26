@@ -1,5 +1,3 @@
-using Discord;
-using Discord.Commands;
 using Newtonsoft.Json.Linq;
 using PKHeX.Core;
 using SysBot.Pokemon.Helpers;

@@ -1,7 +1,3 @@
-using AnimatedGif;
-using Discord;
-using Discord.Commands;
-using Discord.WebSocket;
 using Newtonsoft.Json.Linq;
 using PKHeX.Core;
 using SysBot.Pokemon.Helpers;

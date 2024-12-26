@@ -1,5 +1,3 @@
-using Discord;
-using Discord.Commands;
 using System.IO;
 using System.Linq;
 using System.Net.Http;

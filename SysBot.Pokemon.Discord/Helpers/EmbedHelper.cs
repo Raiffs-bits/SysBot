@@ -1,4 +1,3 @@
-using Discord;
 using PKHeX.Core;
 using SysBot.Pokemon.Helpers;
 using System;

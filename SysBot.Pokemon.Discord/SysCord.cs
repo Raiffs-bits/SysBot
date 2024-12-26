@@ -1,6 +1,3 @@
-using Discord;
-using Discord.Commands;
-using Discord.WebSocket;
 using Microsoft.Extensions.DependencyInjection;
 using PKHeX.Core;
 using SysBot.Base;
@@ -10,9 +7,7 @@ using System.Linq;
 using System.Reflection;
 using System.Threading;
 using System.Threading.Tasks;
-using static Discord.GatewayIntents;
 using static SysBot.Pokemon.DiscordSettings;
-using Discord.Net;
 
 namespace SysBot.Pokemon.Discord;
 

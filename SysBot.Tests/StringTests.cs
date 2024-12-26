@@ -1,4 +1,3 @@
-using FluentAssertions;
 using SysBot.Pokemon;
 using Xunit;
 

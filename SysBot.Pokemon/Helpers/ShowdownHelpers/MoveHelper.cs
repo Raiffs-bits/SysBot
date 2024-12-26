@@ -1,11 +1,10 @@
-using FuzzySharp;
 using PKHeX.Core;
 using SysBot.Base;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using static PKHeX.Core.LearnMethod;
 using System.Threading.Tasks;
+using static PKHeX.Core.LearnMethod;
 
 namespace SysBot.Pokemon.Helpers.ShowdownHelpers
 {

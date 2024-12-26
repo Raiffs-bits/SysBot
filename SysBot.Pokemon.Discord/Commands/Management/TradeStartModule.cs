@@ -1,12 +1,8 @@
-using Discord;
-using Discord.Commands;
-using Discord.WebSocket;
 using PKHeX.Core;
 using SysBot.Base;
 using SysBot.Pokemon.Helpers;
 using System;
 using System.Collections.Generic;
-using System.Drawing;
 using System.Linq;
 using System.Net.Http;
 using System.Threading.Tasks;

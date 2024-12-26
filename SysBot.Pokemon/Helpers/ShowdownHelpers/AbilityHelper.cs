@@ -1,4 +1,3 @@
-using FuzzySharp;
 using PKHeX.Core;
 using System;
 using System.Linq;

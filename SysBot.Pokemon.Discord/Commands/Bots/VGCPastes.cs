@@ -1,10 +1,7 @@
-using Discord;
-using Discord.Commands;
 using PKHeX.Core;
 using SysBot.Pokemon.Helpers;
 using System;
 using System.Collections.Generic;
-using System.Drawing;
 using System.IO;
 using System.IO.Compression;
 using System.Linq;

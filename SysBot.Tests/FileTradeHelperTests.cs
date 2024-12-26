@@ -1,4 +1,3 @@
-using FluentAssertions;
 using PKHeX.Core;
 using SysBot.Pokemon.Helpers;
 using Xunit;

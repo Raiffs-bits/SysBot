@@ -1,7 +1,3 @@
-using Discord;
-using Discord.Commands;
-using Discord.Net;
-using Discord.WebSocket;
 using PKHeX.Core;
 using SysBot.Base;
 using SysBot.Pokemon.Helpers;

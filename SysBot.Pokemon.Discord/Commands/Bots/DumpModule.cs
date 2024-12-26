@@ -1,6 +1,3 @@
-using Discord;
-using Discord.Net;
-using Discord.Commands;
 using PKHeX.Core;
 using System.Threading.Tasks;
 

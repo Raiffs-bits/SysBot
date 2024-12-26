@@ -1,4 +1,3 @@
-using Discord.WebSocket;
 using SysBot.Base;
 
 using System;

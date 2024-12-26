@@ -1,4 +1,3 @@
-using FluentAssertions;
 using SysBot.Base;
 using SysBot.Pokemon;
 using System.Collections.Generic;

@@ -1,11 +1,11 @@
 using PKHeX.Core;
+using SysBot.Pokemon.Helpers.ShowdownHelpers;
 using System;
 using System.Buffers;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using SysBot.Pokemon.Helpers.ShowdownHelpers;
 
 namespace SysBot.Pokemon;
 

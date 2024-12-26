@@ -1,6 +1,5 @@
-using System;
-using FluentAssertions;
 using SysBot.Base;
+using System;
 using Xunit;
 
 namespace SysBot.Tests;

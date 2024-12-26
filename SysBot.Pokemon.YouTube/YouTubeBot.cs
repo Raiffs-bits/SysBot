@@ -1,4 +1,3 @@
-using Google.Apis.YouTube.v3.Data;
 using PKHeX.Core;
 using StreamingClient.Base.Util;
 using SysBot.Base;

@@ -1,9 +1,6 @@
-using Discord;
-using Discord.WebSocket;
 using PKHeX.Core;
 using PKHeX.Core.AutoMod;
 using PKHeX.Drawing.PokeSprite;
-using SysBot.Pokemon.Helpers;
 using System;
 using System.Collections.Generic;
 using System.Drawing;

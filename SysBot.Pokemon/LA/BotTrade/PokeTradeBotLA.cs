@@ -742,7 +742,7 @@ public class PokeTradeBotLA(PokeTradeHub<PA8> Hub, PokeBotState Config) : PokeRo
 
         if (Hub.Config.Legality.UseTradePartnerInfo && !poke.IgnoreAutoOT)
         {
-           toSend = await ApplyAutoOT(toSend, tradePartner, sav, token);
+            toSend = await ApplyAutoOT(toSend, tradePartner, sav, token);
         }
 
         Log("Confirming trade.");

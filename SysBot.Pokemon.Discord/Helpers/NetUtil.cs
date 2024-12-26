@@ -1,4 +1,3 @@
-using Discord;
 using PKHeX.Core;
 using System;
 using System.Net.Http;

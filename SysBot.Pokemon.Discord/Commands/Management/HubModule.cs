@@ -1,5 +1,3 @@
-using Discord;
-using Discord.Commands;
 using PKHeX.Core;
 using SysBot.Base;
 using System;

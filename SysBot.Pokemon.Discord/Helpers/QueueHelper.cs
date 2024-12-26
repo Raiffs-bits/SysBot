@@ -1,7 +1,3 @@
-using Discord;
-using Discord.Commands;
-using Discord.Net;
-using Discord.WebSocket;
 using PKHeX.Core;
 using PKHeX.Core.AutoMod;
 using PKHeX.Drawing.PokeSprite;

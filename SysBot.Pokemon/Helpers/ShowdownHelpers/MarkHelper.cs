@@ -2,8 +2,8 @@ using PKHeX.Core;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using static PKHeX.Core.RibbonIndex;
 using System.Threading.Tasks;
+using static PKHeX.Core.RibbonIndex;
 
 namespace SysBot.Pokemon.Helpers.ShowdownHelpers
 {

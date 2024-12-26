@@ -597,9 +597,9 @@ namespace SysBot.Pokemon.Helpers
                 // Special handling for Hisuian forms
                 dateRanges = pk.Species switch
                 {
-                    (int)Species.Decidueye =>  [(new(2023, 10, 06), new(2023, 10, 08)), (new(2023, 10, 13), new(2023, 10, 15))],
+                    (int)Species.Decidueye => [(new(2023, 10, 06), new(2023, 10, 08)), (new(2023, 10, 13), new(2023, 10, 15))],
                     (int)Species.Typhlosion => [(new(2023, 11, 03), new(2023, 11, 05)), (new(2023, 11, 10), new(2023, 11, 12))],
-                    (int)Species.Samurott =>   [(new(2023, 11, 24), new(2023, 11, 26)), (new(2023, 12, 01), new(2023, 12, 03))],
+                    (int)Species.Samurott => [(new(2023, 11, 24), new(2023, 11, 26)), (new(2023, 12, 01), new(2023, 12, 03))],
                     _ => []
                 };
             }
